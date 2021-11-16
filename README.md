@@ -8,5 +8,7 @@ OBD Reading Project with multiple unusual functions in mind
 - Create base UI
 - Keep on
 
-## Unusual Functions
--  Auto play eurobeat when gas pedal is over 80%
+## Planned Functions
+- Show car alerts
+- Show car info (speed, temp, gas)
+- Auto play eurobeat when gas pedal is over 80%

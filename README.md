@@ -17,4 +17,5 @@ OBD Reading Project with multiple unusual functions in mind
 
 ## References
 ELM327 Docs: https://www.elmelectronics.com/wp-content/uploads/2016/07/ELM327DS.pdf (Overview at page 8)
+
 ELM327 Imp Demo: https://github.com/fr3ts0n/AndrOBD

@@ -5,7 +5,8 @@ OBD Reading Project with multiple unusual functions in mind
 - Setup base iOS and Android apps
   - <s>Make iOS run
   - Make Android run</s>
-- Setup connection and reading
+  - Implement bluetooth connection
+  - Read parameters from ELM327
 - Create base UI
 - Keep on
 

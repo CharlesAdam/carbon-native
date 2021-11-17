@@ -15,6 +15,6 @@ OBD Reading Project with multiple unusual functions in mind
 - Show car info (speed, temp, gas)
 - Auto play eurobeat when gas pedal is over 80%
 
-##References
-ELM327 Docs: https://www.elmelectronics.com/wp-content/uploads/2016/07/ELM327DS.pdf
+## References
+ELM327 Docs: https://www.elmelectronics.com/wp-content/uploads/2016/07/ELM327DS.pdf (Overview at page 8)
 ELM327 Imp Demo: https://github.com/fr3ts0n/AndrOBD

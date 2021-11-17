@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Carbon.iml" filepath="$PROJECT_DIR$/.idea/modules/Carbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Carbon.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Carbon.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/163232086/Carbon.expo.iml" filepath="$PROJECT_DIR$/.idea/modules/163232086/Carbon.expo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/663215193/Carbon.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/663215193/Carbon.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1201483880/Carbon.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/-1201483880/Carbon.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/779965137/Carbon.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/779965137/Carbon.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/133270185/Carbon.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/133270185/Carbon.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1188686118/Carbon.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/1188686118/Carbon.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1480548829/Carbon.expo-json-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/-1480548829/Carbon.expo-json-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1531454764/Carbon.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-1531454764/Carbon.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1300942483/Carbon.expo-manifests.iml" filepath="$PROJECT_DIR$/.idea/modules/-1300942483/Carbon.expo-manifests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1975810564/Carbon.expo-modules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1975810564/Carbon.expo-modules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/659225947/Carbon.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/659225947/Carbon.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/882133153/Carbon.expo-structured-headers.iml" filepath="$PROJECT_DIR$/.idea/modules/882133153/Carbon.expo-structured-headers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/473094739/Carbon.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/473094739/Carbon.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-103093697/Carbon.expo-updates-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-103093697/Carbon.expo-updates-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1194286974/Carbon.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1194286974/Carbon.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1760676774/Carbon.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1760676774/Carbon.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-302145429/Carbon.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-302145429/Carbon.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1515750845/Carbon.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1515750845/Carbon.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

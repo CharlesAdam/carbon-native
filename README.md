@@ -18,4 +18,6 @@ OBD Reading Project with multiple unusual functions in mind
 ## References
 ELM327 Docs: https://www.elmelectronics.com/wp-content/uploads/2016/07/ELM327DS.pdf (Overview at page 8)
 
+Specific old lancer obd config https://www.evoscan.com/technical-vehicle-manuals/12-mitsubishi-diagnostics
+
 ELM327 Imp Demo: https://github.com/fr3ts0n/AndrOBD

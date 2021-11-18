@@ -21,3 +21,11 @@ ELM327 Docs: https://www.elmelectronics.com/wp-content/uploads/2016/07/ELM327DS.
 Specific old lancer obd config https://www.evoscan.com/technical-vehicle-manuals/12-mitsubishi-diagnostics
 
 ELM327 Imp Demo: https://github.com/fr3ts0n/AndrOBD
+
+PINOUTS: https://www.evolutionm.net/forums/ecuflash/359064-howto-identify-diagnostic-cables-pinouts.html
+
+Useful Discussion: https://www.evolutionm.net/forums/other-mitsubishi-vehicles/678452-mut-over-obd2-elm327.html
+
+## Notes
+
+Seems like 94 Lancer ( My test subject ) has the obd2 16 pin connector however it doesn't uses normal protocols, it uses MUT instead and from what I've been searching ELM32X does not support it, maybe its possible to use openport 2 cable for reading, but I got no clues of how should I send this info to the mobile app easily.

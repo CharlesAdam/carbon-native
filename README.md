@@ -26,6 +26,8 @@ PINOUTS: https://www.evolutionm.net/forums/ecuflash/359064-howto-identify-diagno
 
 Useful Discussion: https://www.evolutionm.net/forums/other-mitsubishi-vehicles/678452-mut-over-obd2-elm327.html
 
+MUT - ODB2 JAVA: https://stackoverflow.com/questions/23949256/create-obd2-mut-scanner-by-using-java-ftdi-lib-jd2xx-openport1-3-usb-cable
+
 ## Notes
 
 Seems like 94 Lancer ( My test subject ) has the obd2 16 pin connector however it doesn't uses normal protocols, it uses MUT instead and from what I've been searching ELM32X does not support it, maybe its possible to use openport 2 cable for reading, but I got no clues of how should I send this info to the mobile app easily.
